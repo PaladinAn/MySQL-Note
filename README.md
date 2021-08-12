@@ -1,1 +1,1 @@
-# MySQL-Rescourse
+# MySQL-Note
