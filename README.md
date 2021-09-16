@@ -5,9 +5,9 @@
             mysql.connector
 # 連結資料庫 
             connection = mysql.connector.connect(host='本機localhost',
-                                     port='3306',
-                                     user='root',
-                                     password='password')
+                                                 port='3306',
+                                                 user='root',
+                                                 password='password')
 
 # 開始使用     
              cursor = connection.cursor()
