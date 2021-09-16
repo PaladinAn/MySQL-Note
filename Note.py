@@ -1,4 +1,4 @@
-create:
+# create:
 
 import mysql.connector
 
@@ -31,7 +31,7 @@ cursor.close()
 connection.close()
 
 ---------------------------------------------------------
-select:
+# select:
 
 import mysql.connector
 
@@ -55,7 +55,7 @@ connection.close()
 
 
 -------------------------------------------------------
-update
+# update
 
 import mysql.connector
 
